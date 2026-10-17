@@ -1,19 +1,20 @@
 # Kshitish Kumar — Portfolio
 
-A responsive, single-page portfolio website built with plain HTML, CSS and JavaScript. No framework, database, server, or paid service is required.
+Responsive single-page portfolio built with plain HTML, CSS and JavaScript. No framework, backend, database, or paid hosting is required.
 
-## Preview locally
-Open `index.html` in a browser.
+## Preview
+Open `index.html` in any browser.
 
-## Before publishing
-1. Replace `YOUR_EMAIL@example.com` with your public contact email.
-2. Replace `YOUR_LINKEDIN` and `YOUR_GITHUB` with your profile usernames/URLs.
-3. Verify the job titles, project descriptions, award wording, and dates. Avoid sharing confidential company or customer information.
-4. Add a PDF résumé if you want a Resume button (and link it from the page).
+## Before sharing publicly
+- Replace `YOUR_EMAIL@example.com`, `YOUR_LINKEDIN`, and `YOUR_GITHUB` in `index.html`.
+- Verify role titles, project descriptions, award wording, and education details.
+- Remove any experience or project details that are inaccurate or confidential.
+- Add a résumé PDF and link to it if you'd like a résumé download button.
 
-## Free hosting
-- GitHub Pages: https://pages.github.com/
-- Vercel Hobby: https://vercel.com/pricing
+## Update your GitHub Pages site
+1. Open your repository `KshitishKK/KshitishKK.github.io`.
+2. Open `index.html` and choose the pencil (Edit this file), or upload this replacement `index.html`.
+3. If using Upload files, drag in the new `index.html`, confirm replacing the existing file, and commit directly to `main`.
+4. GitHub Pages will redeploy automatically. Refresh `https://kshitishkk.github.io/` after a few minutes; if the old version appears, hard-refresh the browser.
 
-For GitHub Pages, create a public repository named `<your-github-username>.github.io`, upload `index.html`, then enable Pages in repository settings. Your URL will be `https://<your-github-username>.github.io/`.
-For Vercel, import the repository and deploy; it will provide a `*.vercel.app` address. The free Hobby plan is intended for personal projects.
+Hosting stays free on GitHub Pages with the `github.io` address.
